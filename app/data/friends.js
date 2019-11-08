@@ -80,22 +80,6 @@ module.exports = [
         ]
     },
     {
-        name: "Franco",
-        photo: "https://imagez.tmz.com/image/b9/4by3/2015/06/11/b9c224ee93645b368e933379ad899d82_md.jpg",
-        scores: [
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-        ]
-    },
-    {
         name: "Trump",
         photo: "https://s.abcnews.com/images/Politics/donald-trump-this-week-02-ap-jc-181110_hpMain_16x9_992.jpg",
         scores: [
